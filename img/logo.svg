@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Ôn Tiếng Anh Lớp 5">
+  <g stroke="#2d3047" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Nền tròn -->
+    <circle cx="60" cy="60" r="56" fill="#ffd23f"/>
+    <!-- Tai -->
+    <path d="M33 40 L30 17 L49 31 Z" fill="#9b5de5"/>
+    <path d="M87 40 L90 17 L71 31 Z" fill="#9b5de5"/>
+    <!-- Thân + bụng -->
+    <ellipse cx="60" cy="62" rx="32" ry="36" fill="#9b5de5"/>
+    <ellipse cx="60" cy="74" rx="20" ry="19" fill="#e6dcff"/>
+    <!-- Mắt -->
+    <circle cx="47" cy="50" r="11" fill="#fff"/>
+    <circle cx="73" cy="50" r="11" fill="#fff"/>
+    <circle cx="49" cy="51" r="5" fill="#2d3047" stroke="none"/>
+    <circle cx="71" cy="51" r="5" fill="#2d3047" stroke="none"/>
+    <circle cx="50.5" cy="49" r="1.6" fill="#fff" stroke="none"/>
+    <circle cx="72.5" cy="49" r="1.6" fill="#fff" stroke="none"/>
+    <!-- Má hồng -->
+    <circle cx="38" cy="63" r="4" fill="#ff6b9d" stroke="none" opacity=".7"/>
+    <circle cx="82" cy="63" r="4" fill="#ff6b9d" stroke="none" opacity=".7"/>
+    <!-- Mỏ -->
+    <path d="M55 60 L65 60 L60 68 Z" fill="#ff9f1c"/>
+    <!-- Quyển sách mở -->
+    <path d="M28 86 Q44 79 60 88 Q76 79 92 86 L92 104 Q76 97 60 106 Q44 97 28 104 Z" fill="#fff"/>
+    <path d="M60 88 L60 106" fill="none"/>
+    <path d="M36 90 Q44 87 52 91 M68 91 Q76 87 84 90" fill="none" stroke-width="2.5"/>
+  </g>
+</svg>
